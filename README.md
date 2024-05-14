@@ -5,7 +5,7 @@ This project demonstrates a Domain application solution prototyping.
 
 **MyAssessment** - The main project for business logic layer along with Domain models.
 
-**MyData** - The project for data layer with separate Data models and the data storage service via XML.
+**MyData** - The project for data layer with separate Data models and contains the data storage service via XML.
 
 **MySharedLib** - The project for shared libraries like interfaces.
 
